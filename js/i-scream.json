@@ -43,7 +43,7 @@
       "type" : "ice cream",
       "ingredients" : [
         "fresh pineapple syrup",
-        "vanilla frozen yoghurt",
+        "vanilla frozen yogurt",
         "rainbow marmalade pieces on top"
       ],
       "image" : "ice-cream-xtra1.svg"
@@ -51,7 +51,7 @@
     {
       "name" : "Double-Double Vanilla",
       "calories" : 250,
-      "type" : "frozen yoghurt",
+      "type" : "frozen yogurt",
       "ingredients" : [
         "vanilla extra sweet syrup",
         "thin layers of chocolate",
