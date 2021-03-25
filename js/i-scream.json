@@ -36,6 +36,17 @@
         "candy sprinkles"
       ],
       "image" : "strawberry-sprinkle.svg"
+    },
+    {
+      "name" : "Super Pineapple",
+      "calories" : 450,
+      "type" : "ice cream",
+      "ingredients" : [
+        "fresh pineapple syrup",
+        "vanilla frozen yoghurt",
+        "rainbow marmalade pieces on top"
+      ],
+      "image" : "ice-cream-xtra1.svg"
     }
   ]
 }
